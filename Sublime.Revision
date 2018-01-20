@@ -1,0 +1,96 @@
+Ctrl + z /* for undo */
+
+Ctrl /* to put another text line */
+
+Ctrl + d /* to select the word the more you press it selects */
+
+Shift + right click drag /* to select multi colums */
+
+Alt + shift + w /* it warp the text you now can type any elemnt */
+
+Ctrl + shift + L /* the selected text will start form the end of every line merge it with the one appove her (wrap)*/
+
+Ctrl + Shift + Arrow /* to move up and down*/
+
+Ctrl + Shift + D /* to duplicate */
+
+Ctrl + Shift + K /* to delete the hole line */
+
+Ctrl + [] /* to indent text left and right */ you can select all text and Edit Line Reintend
+Ctrl + A /* to slect all the text */
+
+Ctrl + Shit + V /* intelegent copy */
+
+Ctrl + P /* to open a file @ to jump at specific func # to search words : for the line num start search with @ to show you all the func in the page your at*/
+
+Ctrl + Shift + P /* text command Palette very usful sort reverse upper and else ,Set sentax for lang choose */
+
+tab /* bu using snippets we speed things dramatically*/
+
+emmet /* shit +ctrl + G awsome for html */
+
+how to creat big code with emmet/*	(header.site-header>h1+nav>ul>li*5>a)+(div.site-body>div.main+aside.sidebar)+(footer.site-footer>p) */
+
+
+.site-header nav a{
+	db
+	tdn
+	mr10
+	mb15
+	p10
+	w85p
+	fl
+	tc
+}/*css emmit just Tab */
+
+
+<snippet>
+	<content><![CDATA[
+div class="$1">
+	<p>The ${2:dog} was ${3:fast}</p>
+</div><!-- /$1 -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>d</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope> 
+</snippet>/* 
+
+dont forget to make your key bindings at Preferences
+
+Control + Q to record a/* macro */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
